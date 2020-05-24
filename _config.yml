@@ -1,0 +1,45 @@
+title: 福滿屋烘焙坊
+tagline: Fumanwu Bakery
+description: TBD
+author: https://tsoliangwu.com
+lang: zh-Hans-TW
+logo: /assets/img/site-image.png
+image: /assets/img/site-image.png
+
+baseurl:
+url: https://fumanwu.github.io/
+
+facebook:
+  publisher: https://www.facebook.com/%E7%A6%8F%E6%BB%BF%E5%B1%8B%E7%83%98%E7%84%99%E5%9D%8A-115298519866267
+
+twitter:
+  card: summary
+
+social:
+  name: 福滿屋烘焙坊
+  links:
+    - https://www.facebook.com/%E7%A6%8F%E6%BB%BF%E5%B1%8B%E7%83%98%E7%84%99%E5%9D%8A-115298519866267
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/site-image.png
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+syntax_highlighter: rouge
+exclude: ['README.md']
+permalink: pretty
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/blog/page:num/"
