@@ -14,3 +14,8 @@
     background: linear-gradient(to bottom,  $bg-filter-purple 0%,rgba(0,34,62,0.87) 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa17f', endColorstr='#de00223e',GradientType=0 ); /* IE6-8 */
 }
+
+.landing-page .parallax .description h5 {
+    font-size: 1.2em;
+    line-height: 2;
+}
