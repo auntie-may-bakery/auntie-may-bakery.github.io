@@ -1,5 +1,5 @@
-title: 福滿屋烘焙坊
-tagline: Fumanwu Bakery
+title: May 小阿姨烘培坊
+tagline: Auntie May Bakery
 description: TBD
 author: https://tsoliangwu.com
 lang: zh-Hans-TW
@@ -7,7 +7,7 @@ logo: /assets/img/site-image.png
 image: /assets/img/site-image.png
 
 baseurl:
-url: https://fumanwu.github.io/
+url: https://github.com/auntie-may-bakery/auntie-may-bakery.github.io
 
 facebook:
   publisher: https://www.facebook.com/%E7%A6%8F%E6%BB%BF%E5%B1%8B%E7%83%98%E7%84%99%E5%9D%8A-115298519866267
@@ -16,7 +16,7 @@ twitter:
   card: summary
 
 social:
-  name: 福滿屋烘焙坊
+  name: May 小阿姨烘培坊
   links:
     - https://www.facebook.com/%E7%A6%8F%E6%BB%BF%E5%B1%8B%E7%83%98%E7%84%99%E5%9D%8A-115298519866267
 
