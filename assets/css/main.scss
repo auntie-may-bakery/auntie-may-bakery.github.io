@@ -27,16 +27,20 @@
     .brand {
         font-size: 1em;
         margin-left: 12px;
-        margin-top: 12px;
-        font-weight: bold;
+        margin-top: 14px;
         letter-spacing: 2px;
         width: 160px;
     }
 }
 
-.landing-page .parallax .description h5 {
-    font-size: 1.2em;
-    line-height: 2;
+.landing-page .parallax .description {
+    h2 {
+        font-size: 2.5em;
+    }
+    h5 {
+        font-size: 1.2em;
+        line-height: 2;
+    }
 }
 
 #main-product {
