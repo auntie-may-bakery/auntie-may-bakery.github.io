@@ -1091,15 +1091,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
    .landing-page .section-presentation {
     overflow: hidden;
     width: 100%;
-    min-height: 600px;
-    margin-top: 30px;
+    min-height: 500px;
+    margin-top: 20px;
    }
 
    .landing-page .section-presentation img{
     position: absolute;
     top: 0;
     left: 0;
-    height: 600px;
+    height: 500px;
    }
 
    .landing-page .section-presentation .iphone-presentation {
