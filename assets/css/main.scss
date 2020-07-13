@@ -3,6 +3,10 @@
 
 @import 'variables';
 
+nav {
+    background: linear-gradient(rgb(0, 0, 0), rgba(255, 255, 255, 0));
+}
+
 .navbar .container .navbar-collapse ul li a i{
     margin-right: 10px;
 }
