@@ -76,3 +76,17 @@ nav {
 .header-text {
     text-transform: none;
 }
+
+.info {
+    h2 {
+        margin-top: 20px !important;
+    }
+    p {
+        text-align: left;
+        font-weight: 400 !important;
+    }
+    .btn-lg {
+        margin-top: 30px !important;
+        margin-bottom: 25px;
+    }
+}
