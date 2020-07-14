@@ -80,6 +80,9 @@ nav {
 }
 
 .info {
+    @media screen and (max-width: 1024px) {
+        width: 80%;
+    }
     h2 {
         margin-top: 20px !important;
     }
@@ -98,7 +101,32 @@ nav {
 }
 .section-demo {
     .row {
-        margin-bottom: 100px;
+        margin-bottom: 60px !important;
+        @media screen and (max-width: 1024px) {
+            margin-bottom: 0 !important;
+        }
+        .col-md-6 {
+            margin-bottom: 100px !important;
+            @media screen and (max-width: 1024px) {
+                margin-bottom: 50px !important;
+            }
+            .carousel-indicators {
+                @media screen and (max-width: 1024px) {
+                    bottom: -40px;
+                }
+            }
+        }
+        .col-md-8 {
+            margin-bottom: 100px !important;
+            @media screen and (max-width: 1024px) {
+                margin-bottom: 50px !important;
+            }
+            .carousel-indicators {
+                @media screen and (max-width: 1024px) {
+                    bottom: -45px;
+                }
+            }
+        }
     }
     .text-block {
         position: absolute;
