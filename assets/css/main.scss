@@ -39,7 +39,7 @@ nav {
     .section-demo {
         @media screen and (max-width: 1024px) {
             margin-top: 0;
-          }
+        }
     }
     .parallax .description {
         h2 {
@@ -66,6 +66,11 @@ nav {
 
 .main-header {
     text-align: center;
+    h5 {
+        @media screen and (max-width: 1024px) {
+            font-size: 1.2em !important;
+        }
+    }
 }
 
 .title-parallax {
