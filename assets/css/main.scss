@@ -96,23 +96,27 @@ nav {
 .item {
     position: relative;
 }
-
-.text-block {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-color: rgba(39, 39, 39, 0.541);
-    color: white;
-    padding: 1em;
-    h3, h4 {
-        margin: 15px 0;
-        text-align: center;
+.section-demo {
+    .row {
+        margin-bottom: 100px;
     }
-    p {
-        font-weight: normal;
-        text-align: left;
-        margin-left: 1em;
-        margin-top: 0 !important;
+    .text-block {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: rgba(39, 39, 39, 0.541);
+        color: white;
+        padding: 1em;
+        h3, h4 {
+            margin: 15px 0;
+            text-align: center;
+        }
+        p {
+            font-weight: normal;
+            text-align: left;
+            margin-left: 1em;
+            margin-top: 0 !important;
+        }
     }
 }
