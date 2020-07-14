@@ -101,10 +101,7 @@ nav {
 }
 .section-demo {
     .row {
-        margin-bottom: 60px !important;
-        @media screen and (max-width: 1024px) {
-            margin-bottom: 0 !important;
-        }
+        margin-bottom: 0 !important;
         .col-md-6 {
             margin-bottom: 100px !important;
             @media screen and (max-width: 1024px) {
