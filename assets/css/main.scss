@@ -19,7 +19,7 @@ nav {
 }
 
 .row-reverse {
-    @media screen and (max-width: 1024px) {
+    @media screen and (max-width: 960px) {
         display: flex;
         flex-flow: column-reverse;
         margin-bottom: 50px;
