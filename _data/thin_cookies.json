@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "原味奶香蕾絲薄餅",
+    "description": "以法國奶油、糖、台灣土雞蛋、鮮奶、日本進口麵粉為基底，不用多餘的味道搶走原味奶香，為了留下新鮮鮮奶與發酵奶油的香味，是值得細細品嘗的餅乾。",
+    "image_url": "/assets/img/desserts/thin-cookies/thin-cookie-05.jpg"
+  },
+  {
+    "id": 2,
+    "name": "檸檬蕾絲薄餅",
+    "description": "以法國奶油、糖、台灣土雞蛋、鮮奶、日本進口麵粉為基底，並加入新鮮現榨的檸檬汁及低溫烘乾的檸檬皮增加香氣酸度，吃起來酸甜清香酥脆。",
+    "image_url": "/assets/img/desserts/thin-cookies/thin-cookie-03.jpg"
+  },
+  {
+    "id": 3,
+    "name": "芝麻蕾絲薄餅",
+    "description": "以法國奶油、糖、台灣土雞蛋、鮮奶、日本進口麵粉為基底，並加入新鮮烘培芝麻。新鮮芝麻的香氣是熟悉的味道，就是這個奶香加上芝麻的香味讓人欲罷不能。",
+    "image_url": "/assets/img/desserts/thin-cookies/thin-cookie-04.jpg"
+  },
+  {
+    "id": 4,
+    "name": "柳橙蕾絲薄餅",
+    "description": "以法國奶油、糖、台灣土雞蛋、鮮奶、日本進口麵粉為基底，並加入新鮮現榨的柳橙汁及低溫烘乾的柳橙皮，增加香氣及更多一份獨特的柳橙香味，更能吃出酸甜幸福感覺。",
+    "image_url": "/assets/img/desserts/thin-cookies/thin-cookie-06.jpg"
+  },
+  {
+    "id": 5,
+    "name": "巧克力蕾絲薄餅",
+    "description": "以法國奶油、糖、台灣土雞蛋、鮮奶、日本進口麵粉為基底，並加入濃醇可可粉。沒有加入過多的甜味，如同喝杯黑咖啡一樣，沒有過多甜味添加干擾，讓味蕾盡情享受濃郁香氣味。",
+    "image_url": "/assets/img/desserts/thin-cookies/thin-cookie-07.jpg"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "土鳳梨鳳梨酥",
+    "description": "以法國奶油、糖、台灣土雞蛋、鮮奶、日本進口麵粉及土鳳梨餡維持土鳳梨特有的酸甜味道，不過於甜膩且吃得到餅皮的清香酥脆與內餡的酸甜滋。",
+    "image_url": "/assets/img/desserts/pineapple-cakes/pineapple-cake-03.jpg"
+  },
+  {
+    "id": 2,
+    "name": "夾心鳳梨酥",
+    "description": "以法國奶油、糖、台灣土雞蛋、鮮奶、日本進口麵粉及土鳳梨餡維持土鳳梨特有的酸甜味道，不過於甜膩且吃得到餅皮的清香酥脆與內餡的酸甜滋。採用夾心的方式，餅皮更加酥脆接近餅乾的口感，是另一種鳳梨酥的表現方式 更適合下午茶享用。",
+    "image_url": "/assets/img/desserts/pineapple-cakes/pineapple-cake-03.jpg"
+  },
+  {
+    "id": 3,
+    "name": "酒漬葡萄乾鳳梨酥",
+    "description": "以法國奶油、糖、台灣土雞蛋、鮮奶、日本進口麵粉及土鳳梨餡維持土鳳梨特有的酸甜味道，內餡加入酒漬葡萄，添加一份微微酒香與葡萄甜味，堆疊出更多層次口感，回味無窮。",
+    "image_url": "/assets/img/desserts/pineapple-cakes/pineapple-cake-04.jpg"
+  }
+]
