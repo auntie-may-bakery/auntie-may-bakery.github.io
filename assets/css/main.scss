@@ -130,6 +130,13 @@ nav {
         }
         .product-description {
             padding-left: 2em;
+            p {
+                text-align: left;
+                margin-top: 10px;
+            }
+            .ingredients {
+                font-size: 1.1em;
+            }
         }
     }
 }
